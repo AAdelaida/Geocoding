@@ -18,6 +18,6 @@ The output of this project is an interactive map with markers of the main museum
 The map can be used to easily explore the museums in Mexico City and learn more about each one.
 
 Here's a preview of what the map looks like:
-
+<img src="Images/mapa_interactivo1.jpg">
 
 And an example of pop-up windows:
