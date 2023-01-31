@@ -13,6 +13,6 @@ This project uses Geopandas and Folium to generate an interactive map with marke
 ### Data
 The museum data used in this project is stored in the museums_Mexico_City.csv file. This file contains for each museum: the name, image URL, website URL, as well as data about if the museum has terrace and I have visit it.
 
-###Output
+### Output
 The output of this project is an interactive map with markers of the main museums in Mexico City and pop-up windows that show the names, images, and websites of the museums. 
 The map can be used to easily explore the museums in Mexico City and learn more about each one.
