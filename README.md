@@ -16,3 +16,8 @@ The museum data used in this project is stored in the museums_Mexico_City.csv fi
 ### Output
 The output of this project is an interactive map with markers of the main museums in Mexico City and pop-up windows that show the names, images, and websites of the museums. 
 The map can be used to easily explore the museums in Mexico City and learn more about each one.
+
+Here's a preview of what the map looks like:
+
+
+And an example of pop-up windows:
