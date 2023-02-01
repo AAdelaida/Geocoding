@@ -1,7 +1,8 @@
 ## Interactive Map of Museums in Mexico City
-This project uses Geopandas and Folium to generate an interactive map with markers of the main museums in Mexico City and pop-up windows that show the names, images, and websites of the museums, which you can consult by town hall.
+This project uses Geopy, Geopandas and Folium to generate an interactive map with markers of the main museums in Mexico City and pop-up windows that show the names, images, and websites of the museums, which you can consult by town hall.
 
 ### Requirements
+- Geopy
 - Geopandas
 - Folium
 
